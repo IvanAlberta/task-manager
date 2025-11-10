@@ -6,3 +6,13 @@ Children can also complete daily tasks (such as tidying up toys, making their be
 
 
 <img width="2722" height="3629" alt="Wireframe" src="https://github.com/user-attachments/assets/b1f4e400-6106-4688-8fe7-8ca7081d9c38" />
+
+Technologies Used
+1. HTML
+2. CSS
+3. JavaScript
+
+Features
+1. Responsive design for different devices.
+2. Feature 2
+3. Feature 3
